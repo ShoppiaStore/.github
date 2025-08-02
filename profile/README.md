@@ -153,14 +153,14 @@ Manages stores/warehouses and links products to store inventory.
 ### 🛍️ [E-Commerce UI](https://github.com/ShoppiaStore/ShoppiaStore-UI)
 The main user interface for customers to browse products, apply coupons, and place orders.
 <p align="center">
-  <img src="https://github.com/ShoppiaStore/.github/blob/main/1.png?raw=true" width="30%" alt="Product Page">
-  <img src="https://github.com/ShoppiaStore/.github/blob/main/2.png?raw=true" width="30%" alt="Details Page">
-  <img src="https://github.com/ShoppiaStore/.github/blob/main/3.png?raw=true" width="30%" alt="Login Page">
+  <img src="https://github.com/ShoppiaStore/.github/blob/main/profile/1.png" width="30%" alt="Product Page">
+  <img src="https://github.com/ShoppiaStore/.github/blob/main/profile/2.png?raw=true" width="30%" alt="Details Page">
+  <img src="https://github.com/ShoppiaStore/.github/blob/main/profile/3.png?raw=true" width="30%" alt="Login Page">
 </p>
 <p align="center">
-  <img src="https://github.com/ShoppiaStore/.github/blob/main/4.png?raw=true" width="30%" alt="Cart Page">
-  <img src="https://github.com/ShoppiaStore/.github/blob/main/6.png?raw=true" width="30%" alt="Notification Page">
-    <img src="https://github.com/ShoppiaStore/.github/blob/main/7.png?raw=true" width="30%" alt="Admin Dashboard">
+  <img src="https://github.com/ShoppiaStore/.github/blob/main/profile/4.png?raw=true" width="30%" alt="Cart Page">
+  <img src="https://github.com/ShoppiaStore/.github/blob/main/profile/6.png?raw=true" width="30%" alt="Notification Page">
+    <img src="https://github.com/ShoppiaStore/.github/blob/main/profile/7.png?raw=true" width="30%" alt="Admin Dashboard">
 </p>
 
 ### 💳 [Bank UI](https://github.com/ShoppiaStore/Bank-UI)
